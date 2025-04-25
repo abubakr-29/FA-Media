@@ -8,6 +8,7 @@ import ProjectsMain from "./components/projectsSection/ProjectsMain";
 import TestimonialsMain from "./components/testimonialsSection/TestimonialsMain";
 import ContactUsMain from "./components/contactUsSection/ContactUsMain";
 import FooterMain from "./components/footer/FooterMain";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const App = () => {
   return (
@@ -29,6 +30,7 @@ const App = () => {
         <TestimonialsMain />
         <ContactUsMain />
         <FooterMain />
+        <SpeedInsights />
       </div>
     </main>
   );
