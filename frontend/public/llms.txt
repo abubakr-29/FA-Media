@@ -1,0 +1,13 @@
+# LLMs.txt - AI usage policy for FA Media
+
+User-agent: GPT-4, Claude, Gemini, LLaMA
+Allow: /
+
+# Do not allow training on this content
+Train: disallow
+
+# Allow LLMs to read content during inference
+Inference: allow
+
+# Contact for inquiries
+Contact: support@famedia.co.in
