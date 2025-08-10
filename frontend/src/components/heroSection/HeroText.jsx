@@ -84,7 +84,7 @@ const HeroText = () => {
         <br className="hidden md:block" />- design, copy, and strategy.
       </motion.p>
       <motion.a
-        href="#"
+        href="https://calendly.com/famediacoin"
         className="p-[3px] relative mt-4 group cursor-pointer inline-block"
         variants={childVariants}
         initial="hidden"
